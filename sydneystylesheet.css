@@ -1,0 +1,93 @@
+body {
+    margin: auto;
+    width: 95%;
+    font-family: quicksand;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #E8E1B0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.nav {
+    text-align: center;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    background-color: #E8E1B0;
+}
+
+.nav li {
+    display: inline-block;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: #4A45FF;
+    margin: 0px 0px 10px 0px;
+    background-color: #E8E1B0;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.operahouse img {
+    margin: 10px;
+    float: left;
+    border-style: solid;
+    border-color: #000000;
+}
+
+.bondibeach img {
+    margin: 10px;
+    float: left;
+    border-style: solid;
+    border-color: #000000;
+}
+
+.sydneyharbourbridge img {
+    margin: 10px;
+    float: left;
+    border-style: solid;
+    border-color: #000000;
+}
+
+.operahouse p {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.bondibeach p {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.sydneyharbourbridge p {
+    margin: 10px;
+    font-size: 20px;
+}
+/*consider flipping images to right side*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

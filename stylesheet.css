@@ -1,0 +1,62 @@
+body {
+    margin: auto;
+    width: 95%;
+    font-family: quicksand;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #E8E1B0;
+/*different background color?*/
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.nav {
+    text-align: center;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    display: inline-block;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: #4A45FF;
+    margin: 0px;
+}
+
+img {
+    border-style: solid;
+    border-color: #000000;
+/*no border?*/
+}
+
+.cities {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+#leftimage {
+    float:left;
+    width: 50%;
+    color: #4A45FF;
+    font-size: 30px;
+}
+
+#rightimage {
+    float:right;
+    width: 50%;
+    font-size: 30px;
+    color: #4A45FF;
+}
